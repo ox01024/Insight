@@ -1,0 +1,14 @@
+APScheduler==3.9.1
+backports.zoneinfo==0.2.1
+certifi==2021.10.8
+charset-normalizer==2.0.12
+idna==3.3
+loguru==0.6.0
+pytz==2022.1
+pytz-deprecation-shim==0.1.0.post0
+PyYAML==6.0
+requests==2.27.1
+six==1.16.0
+tzdata==2022.1
+tzlocal==4.2
+urllib3==1.26.9

@@ -1,0 +1,10 @@
+GithubToken:
+
+plugins:
+# Ding ding Webhook
+  Dingding:
+    enabled: true
+    token:
+
+
+
